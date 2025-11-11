@@ -8,8 +8,8 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Abraham Khan - Computational Mathematics" #
+site_theme               : "air" # Currently available options are "default", "air"
+title                    : "Abraham Khan - Computational Mathematician" #
 title_separator          : "-"
 name                     : &name "Abraham Khan" #
 description              : &description "PhD Candidate in Mathematics. Computational mathematician developing fast algorithms for densely structured linear and multilinear algebra problems." #
