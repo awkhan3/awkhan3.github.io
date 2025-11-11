@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-[cite_start]title                    : "Abraham Khan - Computational Mathematics" # [cite: 1, 6]
+title                    : "Abraham Khan - Computational Mathematics" #
 title_separator          : "-"
-[cite_start]name                     : &name "Abraham Khan" # [cite: 1]
-description              : &description "PhD Candidate in Mathematics. Computational mathematician developing fast algorithms for densely structured linear and multilinear algebra problems." [cite_start]# [cite: 5, 6]
+name                     : &name "Abraham Khan" #
+description              : &description "PhD Candidate in Mathematics. Computational mathematician developing fast algorithms for densely structured linear and multilinear algebra problems." #
 url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,13 +24,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  [cite_start]name             : "Abraham Khan" # [cite: 1]
+  name             : "Abraham Khan" #
   pronouns         : # example: "she/her"  
-  bio              : "PhD Candidate in Mathematics developing tensor-based algorithms for scientific computing and machine learning." [cite_start]# [cite: 5, 7]
-  [cite_start]location         : "Raleigh, NC" # [cite: 13]
-  [cite_start]employer         : "North Carolina State University" # [cite: 13]
+  bio              : "PhD Candidate in Mathematics developing tensor-based algorithms for scientific computing and machine learning." #
+  location         : "Raleigh, NC" #
+  employer         : "North Carolina State University" #
   uri              : # URL
-  [cite_start]email            : "awkhan3@ncsu.edu" # [cite: 2]
+  email            : "awkhan3@ncsu.edu" #
 
   # Academic websites
   academia         : # URL
@@ -50,7 +50,7 @@ author:
   dribbble         : # Username
   github           : "academicpages"
   kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+  stackoverflow    : # User number or user number and name (i.i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
@@ -120,7 +120,7 @@ staticman:
     date:
       type               : "date"
       options:
-        format           : "iso801" # "iso801" (default), "timestamp-seconds", "timestamp-milliseconds"
+        format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
   hide                   : false     # change to true to hide the RSS feed in the footer
   path                   : # blank (default) uses feed.xml
@@ -146,7 +146,7 @@ og_description           :  # Social media default site image description
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
   type                   : Person
-  [cite_start]name                   : "Abraham Khan" # [cite: 1]
+  name                   : "Abraham Khan" #
   links: # An array of links to social media profiles
 
 
