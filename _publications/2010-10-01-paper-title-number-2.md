@@ -11,5 +11,4 @@ paperurl: 'https://arxiv.org/abs/2511.03109' # <-- I added the link from the arX
 bibtexurl: 
 citation: 'Khan, A.; Chen, C.; Rao, V.; Saibaba, A. K. (2025). &quot;Parametric hierarchical matrix approximations to kernel matrices.&quot; <i>arXiv preprint arXiv:2511.03109 [math.NA]</i>.'
 ---
-
-[Source: 30, 45, 46] This paper develops parametric hierarchical matrices, a new class of hierarchical matrices that efficiently approximates parametric kernel matrices across the full parameter domain.
+This paper develops parametric hierarchical matrices, a new class of hierarchical matrices that efficiently approximates parametric kernel matrices across the full parameter domain.
