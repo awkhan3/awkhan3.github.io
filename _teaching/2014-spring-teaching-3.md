@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2022-spring-ma121
 venue: "North Carolina State University, Department of Mathematics"
-date: 2022-01-10
+date: Spring 2022
 location: "Raleigh, NC"
 ---
 
