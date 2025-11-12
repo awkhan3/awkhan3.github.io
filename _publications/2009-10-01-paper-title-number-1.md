@@ -7,7 +7,7 @@ excerpt: 'This paper introduces the Parametric Tensor Train Kernel (PTTK), a ten
 date: 2025-01-01
 venue: 'SIAM Journal on Matrix Analysis and Applications'
 slidesurl: 
-paperurl: 'https://doi.org/10.1137/24M1641018' # <-- I looked this up, but you can change it to a direct PDF link
+paperurl: 'https://epubs.siam.org/doi/10.1137/24M1663879' # <-- I looked this up, but you can change it to a direct PDF link
 bibtexurl: 
 citation: 'Khan, A.; Saibaba, A. K. (2025). &quot;Parametric kernel low-rank approximations using tensor train decomposition.&quot; <i>SIAM Journal on Matrix Analysis and Applications</i>, 46(2), 1006-1036.'
 ---
