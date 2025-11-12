@@ -1,20 +1,14 @@
 ---
-title: "Teaching experience 1"
+title: "MA 305: Introductory Linear Algebra and Matrices"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: /teaching/2020-fall-ma305
+venue: "North Carolina State University, Department of Mathematics"
+date: 2020-08-01
+location: "Raleigh, NC"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Teaching Assistant for Fall 2020.
+Responsibilities included:
+* Held office hours 
+* Graded assignments and exams
