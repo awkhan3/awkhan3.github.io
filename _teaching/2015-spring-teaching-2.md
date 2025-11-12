@@ -1,20 +1,15 @@
 ---
-title: "Teaching experience 2"
+title: "MA 242: Calculus III"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Undergraduate course"
+permalink: /teaching/2021-spring-ma242
+venue: "North Carolina State University, Department of Mathematics"
+date: 2021-01-10
+location: "Raleigh, NC"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Teaching Assistant for multiple terms: Spring 2021, Fall 2021, and Fall 2022 .
+Responsibilities included:
+* Led recitations 
+* Held office hours 
+* Graded assignments and exams
