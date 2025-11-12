@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2020-fall-ma305
 venue: "North Carolina State University, Department of Mathematics"
-date: 2020-08-01
+date: "Fall 2022"
 location: "Raleigh, NC"
 ---
 
