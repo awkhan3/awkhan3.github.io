@@ -12,7 +12,7 @@ site_theme               : "default" # Currently available options are "default"
 title                    : ""
 title_separator          : "-"
 name                     : &name "Abraham Khan"
-description              : &description "PhD Candidate in Mathematics. Computational mathematician developing fast algorithms for densely structured linear and multilinear algebra problems."
+description              : &description "PhD Candidate in Mathematics at NCSU. Computational mathematician developing fast algorithms for densely structured linear and multilinear algebra problems."
 url                      : https://awkhan3.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "awkhan3/awkhan3.github.io" #
