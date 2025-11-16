@@ -1,7 +1,7 @@
 ---
 title: "Parametric Hierarchical Matrices"
 collection: portfolio
-excerpt: "Implementation of the parametric hierarchical matrix approach (Python), an efficient method to approximate parametric kernel matrices."
+excerpt: "Implementation of parametric hierarchical matrices, a class of hierarchical matrices that can efficiently approximate parametric kernel matrices."
 ---
 
 This repository contains the Python implementation for **Parametric Hierarchical Matrices**.
