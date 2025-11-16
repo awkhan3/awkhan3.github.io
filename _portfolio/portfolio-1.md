@@ -1,7 +1,7 @@
 ---
 title: "PTTK Method"
+[cite_start]excerpt: "Implementation of the PTTK method (Python)[cite: 50]. This method is for computing parametric low-rank approximations of kernel matrices."
 collection: portfolio
-[cite_start]excerpt: "Implementation of the PTTK method (Python)  for computing parametric low-rank approximations of kernel matrices."
 ---
 
 [cite_start]This project provides the Python implementation for the **Parametric Tensor Train Kernel (PTTK) method**[cite: 50].
